@@ -1,4 +1,4 @@
-# StackOverflowAPIDemo
+# ImageLoadingIntoTableViewDemo
 Sample iOS app that demonstrates how to responsibly download images and display them into reused Table View or Collection View cells 
 
 The app connects to one of StackOverflow's public REST API endpoints to download a list of available public user profiles. This list is delivered into a Table View where each cell contains the user's gravatar image, their badge count, and a link to view their full profile in a Safari web link. 
